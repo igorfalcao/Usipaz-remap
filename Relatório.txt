@@ -1,0 +1,26 @@
+Relatório: 
+
+Terra firme:
+- Falta da coluna genero e problema na data - AJUSTADO
+_____________________________
+Cabanagem: 
+- Falta da coluna genero e problema na data - AJUSTADO
+- Datas incosistentes - AJUSTADO
+- Incopatibilidade de serviços com a listagem original - AJUSTADO
+
+_____________________________
+Guamá: 
+- Falta da coluna genero e problema na data - AJUSTADO
+- Tabela de registro com indices incosistentes - AJUSTADO
+
+_____________________________
+Bengui:
+- Falta da coluna genero e problema na data - AJUSTADO
+- Incopatibilidade de serviços com a listagem original 
+- Registro com NOME COMPLETO vazio
+- Registro com DATA DE ATENDIMENTO vazio
+- Coluna Idade Incosistente
+- Duplicidde de certidões criminais
+_____________________________
+Jurunas
+- Falta da coluna genero e problema na data - AJUSTADO
