@@ -15,11 +15,7 @@
 
 <ul>
 	<li><span style="font-size:12px"><span style="font-family:georgia,serif">Separar Primeiro Nome da Coluna (Nome Completo):&nbsp;<em>=ESQUERDA(D2;PROCURAR(&quot; &quot;;D2&amp;&quot; &quot;)-1)</em></span></span></li>
-	<li><span style="font-size:12px">Colaca registros em letra maiucula:&nbsp;<em>= MAI&Uacute;SCULA(D3)</em></span></li>
+	<li><span style="font-size:12px">Colaca registros em letra maiucula:&nbsp;<em>= MAI&Uacute;SCULA(D3</em></span></li>
 </ul>
 
-<p><iframe frameborder="0" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMzg3OTYwMmYtZDQ0MS00ZGQwLTkxNDgtYjVjM2M1NzU1M2ZkIiwidCI6Ijk4ZDM1NmYyLWQzMmEtNDc0Ni04ZmNkLTJhNzM5ZDZlMWE5NSJ9" title="Dashboard_tf" width="600"></iframe></p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
+<p><span style="font-size:12px"><em><iframe align="middle" frameborder="0" height="373" longdesc="Dashboard" name="Modelo Dash" scrolling="no" src="https://app.powerbi.com/view?r=eyJrIjoiMzg3OTYwMmYtZDQ0MS00ZGQwLTkxNDgtYjVjM2M1NzU1M2ZkIiwidCI6Ijk4ZDM1NmYyLWQzMmEtNDc0Ni04ZmNkLTJhNzM5ZDZlMWE5NSJ9" title="Dashbord" width="600"></iframe></em></span></p>
